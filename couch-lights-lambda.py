@@ -4,7 +4,7 @@ import ujson
 import os
 import webcolors
 
-apiurl = 'https://api.spark.io/v1/devices'
+apiurl = 'https://api.particle.io/v1/devices'
 
 # --------------- Helpers that build all of the responses ----------------------
 
